@@ -1,0 +1,9 @@
+Four files are in this repository.
+
+Datasheet-samplesizes.csv includes all data and has to be downloaded along with the R code in order for it to work.
+
+Sample sizes - R-Code.R is the R-Code used for this paper. It is annotated with comments for better readability.
+
+spreadsheet manual.docx provides the guidelines used when coding studies in detail.
+
+1-s2.0-S1469029215300273-mmc1.docx explains how the power analyses in G*Power were conducted. This is the same file as the one Schweizer & Furley (2016) used.
